@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "product": "pipmcp",
+  "credential": "PIPMCP_API_KEY",
+  "skills": [
+    {
+      "name": "pipmcp-discord",
+      "description": "Connect AI agents to Discord Bot using one PipMCP API key and actual hosted tool discovery."
+    }
+  ],
+  "files": {
+    "skills/pipmcp-discord/SKILL.md": "5ac0e54ed252185283e1997297073225c9a4328b5c37e4c217d6181bc13ad1c8"
+  }
+}
